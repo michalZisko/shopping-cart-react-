@@ -1,0 +1,19 @@
+.shopping-cart-icon {
+    width: 3.5rem;
+    height: 3rem;
+    padding-right: 4px;
+    position: relative;
+}
+
+.counter {
+    color: white;
+    width: 1.5rem;
+    height: 1.5rem;
+    position: absolute;
+    bottom: 0;
+    transform: translate(170%, -25%);
+}
+
+.actions {
+    display: flex;
+}
